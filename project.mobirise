@@ -281,7 +281,7 @@
       }
     ],
     "uniqCompNum": 470,
-    "imageResize": false,
+    "imageResize": true,
     "imageSearchQuery": "architecture",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
