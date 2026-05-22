@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "James Gemayel",
-    "currentPage": "page27.html",
+    "currentPage": "index.html",
     "ai": {
       "prompt": "Portfolio for James Gemayel\nOverview:Create a clean, minimalist portfolio highlighting James Gemayel’s education, skills, work experience, and leadership.\nContent:\nIntroduction: Name, contact, and brief bio: Aspiring architect with a background in Economics, currently studying Architecture with a Minor in Construction Management.\nEducation: BS in Economics and Architecture degree (4th year), Lebanese American University.\nExperience: Owner, Industrialzone.lb: Furniture design and 3D rendering.\nDesign Projects: Interior and exterior work for various clients.\nInternships at Algeco Ltd.: Hands-on experience in construction and design systems.\nSkills: CAD (AutoCAD, Revit), Rendering (Lumion, Enscape, VR).\nLeadership: Vice President, Byblos Campus Student Council Architecture Representative\nPortfolio Features: Furniture designs, Interior/Exterior projects, Virtual Reality renderings, and insights from internships.\nDesign: Modern, simple layout with visuals and short descriptions.",
       "imageSearchQuery": "architecture"
@@ -34,7 +34,7 @@
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "settings": [
         {
@@ -302,8 +302,8 @@
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>. Rejecting cookies may make some features unavailable.",
-      "textButton": "ACCEPT",
+      "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
       "rejectText": "REJECT"
     },
     "gdpr": {
@@ -315,7 +315,7 @@
     "witsec-white-label": true,
     "publishEditFolder": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlertType": "2"
+    "cookiesAlertType": "1"
   },
   "pages": {
     "index.html": {
