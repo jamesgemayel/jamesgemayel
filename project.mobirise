@@ -313,7 +313,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "witsec-white-label": true,
-    "publishEditFolder": true,
+    "publishEditFolder": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlertType": "1"
   },
